@@ -1,0 +1,13 @@
+    Eu fiz o código o mais simples possível. Gostaria de dizer que ainda não sei exatamente o que
+    deveria fazer com a informação do "Código", pois não foi especificado no PDF, nem a extensão do uso
+    do ColdFusion. Fiquei em dúvida se era necessário criar um banco de dados, gerar informações
+    fictícias de clientes e buscá-las no código, ou se bastava uma abordagem mais simples como a que eu
+    usei.
+
+    De qualquer forma, se eu não passei no teste, por favor, envie-me um e-mail detalhado para
+    carloshenrique.webdev@gmail.com para que eu possa saber e
+    melhorar, eu ficaria realmente agradecido.
+    Se você não souber como executar o código, entre em contato comigo lá também.
+
+    No geral, sinto que algumas coisas não ficaram claras sobre o que você deveria estar fazendo em
+    detalhes. Talvez outras pessoas pudessem ter entendido muito melhor do que eu, no entanto...
